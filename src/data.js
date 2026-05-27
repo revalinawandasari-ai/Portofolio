@@ -107,6 +107,7 @@ import Proyek4 from "/assets/proyek/proyek4.webp";
 import Proyek5 from "/assets/proyek/proyek5.webp";
 import Proyek6 from "/assets/proyek/proyek6.webp";
 import Proyek7 from "/assets/proyek/proyek7.png";
+import Proyek7 from "/assets/proyek/proyek8.png";
 
 export const listProyek = [
   {
@@ -143,7 +144,7 @@ export const listProyek = [
   },*/
   {
     id: 2,
-    gambar: Proyek5,
+    gambar: Proyek8,
     nama: "Web Portfolio",
     desk: "Website portofolio ini dibuat untuk menampilkan profil, keahlian, dan proyek yang telah saya kerjakan sebagai mahasiswa Teknik Informatika.",
     tools: ["VSCode", "Vite", "ReactJS", "HTML", "Tailwind CSS", "Javascript"],
