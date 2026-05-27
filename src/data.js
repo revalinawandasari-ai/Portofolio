@@ -117,7 +117,7 @@ export const listProyek = [
     desk: "Website bernama Garuda yang dirancang untuk memesan tiket pesawat secara online.",
     tools: ["VSCode", "Laravel", "PHP", "HTML", "Tailwind CSS", "Javascript"],
     dad: "200",
-    link: "http://localhost:8000",
+    link: "https://github.com/revalinawandasari-ai/Project-Pemweb",
   },
   /*
     id: 2,
@@ -150,7 +150,7 @@ export const listProyek = [
     desk: "Website portofolio ini dibuat untuk menampilkan profil, keahlian, dan proyek yang telah saya kerjakan sebagai mahasiswa Teknik Informatika.",
     tools: ["VSCode", "Vite", "ReactJS", "HTML", "Tailwind CSS", "Javascript"],
     dad: "300",
-    link: "https://portofolio-reva.vercel.app/",
+    link: "https://github.com/revalinawandasari-ai/Portofolio",
   },
   /*
     id: 6,
