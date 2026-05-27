@@ -145,7 +145,7 @@ export const listProyek = [
   {
     id: 2,
     gambar: Proyek8,
-    nama: "Web Portfolio",
+    nama: "Web Portofolio",
     desk: "Website portofolio ini dibuat untuk menampilkan profil, keahlian, dan proyek yang telah saya kerjakan sebagai mahasiswa Teknik Informatika.",
     tools: ["VSCode", "Vite", "ReactJS", "HTML", "Tailwind CSS", "Javascript"],
     dad: "300",
