@@ -117,7 +117,7 @@ export const listProyek = [
     desk: "Website bernama Garuda yang dirancang untuk memesan tiket pesawat secara online.",
     tools: ["VSCode", "Laravel", "PHP", "HTML", "Tailwind CSS", "Javascript"],
     dad: "200",
-    link: "",
+    link: "http://localhost:8000",
   },
   /*
     id: 2,
