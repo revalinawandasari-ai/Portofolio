@@ -107,7 +107,7 @@ import Proyek4 from "/assets/proyek/proyek4.webp";
 import Proyek5 from "/assets/proyek/proyek5.webp";
 import Proyek6 from "/assets/proyek/proyek6.webp";
 import Proyek7 from "/assets/proyek/proyek7.png";
-import Proyek7 from "/assets/proyek/proyek8.png";
+import Proyek8 from "/assets/proyek/proyek8.png";
 
 export const listProyek = [
   {
