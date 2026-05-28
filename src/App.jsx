@@ -18,7 +18,7 @@ function App() {
           maupun antarmuka web yang modern dan fungsional.
         </p>
         <div className="flex items-center sm:gap-4 gap-2">
-          <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
+          <a href="https://docs.google.com/document/d/18CzFc4DsbZukdqU95XkBxQnVWoR_KZAcwf7mRPKIf9Y/edit?usp=sharing" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
             Download CV <i className="ri-download-line ri-lg"></i>
           </a>
           <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">
